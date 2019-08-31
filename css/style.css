@@ -1,0 +1,124 @@
+body, html {
+    height: 100%;
+}
+
+.first{
+    font-size:30px;
+    width:60%;
+    color: #4b2e83;
+    text-align: center;
+}
+
+.second {
+    text-align: center;
+    font-size: 20px;
+    border: 10px;
+}
+
+.third{
+    position: fixed;
+    width: 100%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8zssbkK_2wPMQ4IxdWoPVO65d5eZ2i_qjfNDC84r2EE1z3ZwM-g);
+}
+
+.fourth {
+    width : 100%;
+    height : 50px;
+    
+}
+
+.bcg {
+    background-color: #eaebd8;
+    height: 100%;
+}
+
+.spac{
+    height: 200px;
+    color: #eaebd8;
+}
+
+.fifth{
+    font-size: 50px;
+    text-align: center;
+    height: 20%;
+}
+
+.engineer{
+    text-align: center;
+    font-size: 30px;
+    height:150px;
+}
+
+.fullscreen{
+    height: 100%;
+}
+
+.contact{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    filter: saturate(50%);
+}
+
+.icon{
+    height:100px;
+    width: 500px;
+    text-align: center;
+}
+
+.prof{
+    width:500px;
+    border-radius: 100%;
+}
+
+.loading{
+    width:70%;
+    text-align: center;
+}
+
+.about{
+    border-top: 100px;
+}
+
+.sixth{
+    height: 50px;
+    font-size: 20px;
+}
+
+.resume{
+    background-color: #caabd8;
+}
+
+.seventh{
+    border-style: dotted;
+    width: 10%;
+    border-block-color: black;
+}
+
+.eight{
+    font-size: 30px;
+}
+
+.edu{
+    font-size: 20px;
+}
+
+.cell{
+    line-height: 30px;
+    vertical-align: top;
+}
+
+.erase{
+    list-style-type: none;
+}
+
+.skill{
+    width: 50%;
+}
+
+.con{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9p67XVhF8dS0qOXJUHTksRq1gE26EgrDv-An1T6idYRKutJeXA);
+    opacity: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
